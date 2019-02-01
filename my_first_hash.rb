@@ -40,5 +40,7 @@ shipping_manifest["gun powder"] = 4
 
 
   # return the shipping_manifest hash below
-
+hash = {"key1" => "value1"}
+hash[key2] = "value2"
+hash
 end
